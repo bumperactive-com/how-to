@@ -37,6 +37,7 @@
     - Make sure Apparel Size and Style are set as *Rectangle List*.
     - Make sure Product Type is set as a *Dropdown*.
       + Dropdown options are hidden from customers, Rectangle options are shown on storefront.
+      + We don't need customers to know the product type, but we DO need them to pick a damn size.
 ![](images/product-creation3.png?raw=true)
   + Edit the alphanumeric portion of each variant SKU.
 ![](images/product-creation4.png?raw=true)
