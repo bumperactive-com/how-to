@@ -6,7 +6,6 @@
 1. [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#apparel-items)
 2. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#non-apparel-items)
 
-#### A-STYLE STORES
 
 ##### *APPAREL ITEMS*
 
