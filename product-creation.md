@@ -3,8 +3,8 @@
 ### Table of Contents
 
 #### B-STYLE STORES
-[Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#apparel-items)
-[Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#non-apparel-items)
+- [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#apparel-items)
+- [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#non-apparel-items)
 
 #### A-STYLE STORES
 
