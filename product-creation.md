@@ -7,7 +7,7 @@
 2. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#non-apparel-items)
 
 
-##### *APPAREL ITEMS*
+##### *1. APPAREL ITEMS*
 
 - Find a template for the type of product being created.
 - Click the three dots to open a dropdown menu and select **Copy**.
@@ -41,7 +41,9 @@
 ![](images/product-creation5.png?raw=true)
     - Save changes.
 
-##### *NON-APPAREL ITEMS*
+
+
+##### *2. NON-APPAREL ITEMS*
 
 - *Templates will already contain the requisite **Product Type** option*.
 - *Non-Apparel items do not need Variant SKUs*.
