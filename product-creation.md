@@ -6,6 +6,7 @@
 
 - Find a template for the type of product being created.
 - Click the three dots to open a dropdown menu and select **Copy**.
+![](images/product-creation0.png?raw=true)
 - Edit Product Name and SKU.
 - Select relevant product categories, such as Pride, Tee, etc. 
 ![](images/product-creation1.png?raw=true)
