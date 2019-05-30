@@ -6,6 +6,7 @@
 1. [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#apparel-items)
 2. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#non-apparel-items)
 
+-------------------------------------------------------------------------------------
 
 ##### *1. APPAREL ITEMS*
 
@@ -31,6 +32,7 @@
     - Product Type (Variant option. *created by template*)
 
   + **Make sure Brand, Size, Style options each have one value marked as** *Default*.
+    - Otherwise, product can't be added to cart.
 ![](images/product-creation3.png?raw=true)
   + Edit the alphanumeric portion of each variant SKU.
 ![](images/product-creation4.png?raw=true)
@@ -38,15 +40,16 @@
   + In **Modifier Options**, add **Apparel Brand** and **Apparel Color** options.
     - Make sure **Type** is set as *Dropdown*.
     - Make sure option is required and the value is marked as *Default*.
+      + Otherwise, product can't be added to cart.
 ![](images/product-creation5.png?raw=true)
     - Save changes.
 
-
+-------------------------------------------------------------------------------------
 
 ##### *2. NON-APPAREL ITEMS*
 
-- *Templates will already contain the requisite **Product Type** option*.
-- *Non-Apparel items do not need Variant SKUs*.
+- ***Templates will already contain the requisite Product Type modifier option***.
+- ***Non-Apparel items do not need Variant SKUs***.
 
 - Find an appropriate template.
 - Click the three dots to open a dropdown menu and select **Copy**.
@@ -63,4 +66,5 @@
   + Not sure why this appears twice, just do it.
 
 - In **Modifier Options**, make sure **Product Type** option is *required* and value is marked as *Default*.
+  + Otherwise, product can't be added to cart.
 ![](images/product-creation5.png?raw=true)
