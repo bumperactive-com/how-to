@@ -6,7 +6,6 @@
 1. [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#apparel-items)
 2. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#non-apparel-items)
 
--------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------
 
@@ -33,8 +32,11 @@
     - Apparel Style (Variant option, *created by template*)
     - Product Type (Variant option. *created by template*)
 
-  + **Make sure Brand, Size, Style options each have one value marked as** *Default*.
+  + **Make sure Apparel Size, Apparel Style and Product Type options each have one value marked as** *Default*.
     - Otherwise, product can't be added to cart.
+    - Make sure Apparel Size and Style are set as *Rectangle List*.
+    - Make sure Product Type is set as a *Dropdown*.
+      + Dropdown options are hidden from customers, Rectangle options are shown on storefront.
 ![](images/product-creation3.png?raw=true)
   + Edit the alphanumeric portion of each variant SKU.
 ![](images/product-creation4.png?raw=true)
