@@ -7,7 +7,7 @@
 - Find a template for the type of product being created.
 - Click the three dots to open a dropdown menu and select **Copy**.
 ![](images/product-creation0.png?raw=true)
-- Edit Product Name and SKU.
+- Edit **Product Name** and **SKU**.
 - Select relevant product categories, such as Pride, Tee, etc. 
 ![](images/product-creation1.png?raw=true)
 - Check product price to make sure it matches other products of similar type.
@@ -19,15 +19,15 @@
 
 - Product Options
   + **ALL tees/tanks/hoodies need these five options**:
-    - Apparel Brand
-    - Apparel Color
-    - Apparel Size (created by template)
-    - Apparel Style (created by template)
-    - Product Type (created by template)
+    - Apparel Brand (Modifier option, *created manually*)
+    - Apparel Color (Modifier option, *created manually*)
+    - Apparel Size (Variant option, *created by template*)
+    - Apparel Style (Variant option, *created by template*)
+    - Product Type (Variant option. *created by template*)
 
   + **Make sure Brand, Size, Style options each have one value marked as** *Default*.
 ![](images/product-creation3.png?raw=true)
-  + Edit the alphanumeric postion of each variant SKU. 
+  + Edit the alphanumeric portion of each variant SKU. 
 ![](images/product-creation4.png?raw=true)
     - Save after editing SKUs to prevent loss of work.
   + In **Modifier Options**, add **Apparel Brand** and **Apparel Color** options.
