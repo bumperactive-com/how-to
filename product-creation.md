@@ -27,7 +27,7 @@
 - Select relevant product categories, such as Pride, Tee, etc.
 ![](images/product-creation1.png?raw=true)
 - Check product price to make sure it matches other products of similar type.
-- Use [Product Description Generator](https://docs.google.com/spreadsheets/d/1dv7-gOUT8lrlTswsGyFeZfskL0IogINUoMvJr5jAcJE/edit#gid=0) and paste output into product **Description**.
+- Use Product Description Generator and paste output into product **Description**.
 ![](images/product-creation36.png?raw=true)
 - Upload product images.
 ![](images/product-creation2.png?raw=true)
@@ -83,7 +83,7 @@
 - Select relevant product categories, such as Pride, Goods, etc.
 ![](images/product-creation1.png?raw=true)
 - Check product price to make sure it matches other products of similar type.
-- Use [Product Description Generator](https://docs.google.com/spreadsheets/d/1dv7-gOUT8lrlTswsGyFeZfskL0IogINUoMvJr5jAcJE/edit#gid=0) and paste output into product **Description**.
+- Use Product Description Generator and paste output into product **Description**.
 ![](images/product-creation36.png?raw=true)
 
 - Upload product images.
@@ -117,7 +117,7 @@
 - Check **Default Price** to ensure cost matches other products of similar type.
 - Select relevant product categories, such as Pride, Tee, etc.
 - Edit **Product code/SKU**.
-- Use [Product Description Generator](https://docs.google.com/spreadsheets/d/1dv7-gOUT8lrlTswsGyFeZfskL0IogINUoMvJr5jAcJE/edit#gid=0) and paste output into product **Description**.
+- Use Product Description Generator and paste output into product **Description**.
   + **Save** changes.
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
@@ -241,7 +241,7 @@
 - Check **Default Price** to ensure cost matches other products of similar type.
 - Select relevant product categories, such as Goods, Stickers, etc.
 - Edit **Product code/SKU**.
-- Use <a href="https://docs.google.com/spreadsheets/d/1dv7-gOUT8lrlTswsGyFeZfskL0IogINUoMvJr5jAcJE/edit#gid=0" target="_blank">Product Description Generator</a> and paste output into product **Description**.
+- Use Product Description Generator and paste output into product **Description**.
   + **Save** changes.
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
