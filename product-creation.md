@@ -20,7 +20,7 @@
 ##### *1. APPAREL ITEMS*
 
 - Find a template for the type of product being created.
-- Click the three dots to open a dropdown menu and select **Copy**.
+- Click the three dots to open the dropdown menu and select **Copy**.
 ![](images/product-creation0.png?raw=true)
 - Edit **Product Name** and **SKU**.
 ![](images/product-creation35.png?raw=true)
@@ -39,11 +39,11 @@
 
 - Product Options
   + **ALL tees/tanks/hoodies need these five options**:
-    - Apparel Brand (Modifier option, *created manually*)
-    - Apparel Color (Modifier option, *created manually*)
-    - Apparel Size (Variant option, *created by template*)
-    - Apparel Style (Variant option, *created by template*)
-    - Product Type (Variant option. *created by template*)
+    - Apparel Brand (**Modifier** option, *created manually*)
+    - Apparel Color (**Modifier** option, *created manually*)
+    - Apparel Size (**Variant** option, *created by template*)
+    - Apparel Style (**Variant** option, *created by template*)
+    - Product Type (**Variant** option. *created by template*)
 
   + **Make sure Apparel Size, Apparel Style and Product Type options each have one value marked as** *Default*.
     - Otherwise, product can't be added to cart.
