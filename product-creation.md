@@ -56,6 +56,7 @@
       + Otherwise, product can't be added to cart.
 ![](images/product-creation5.png?raw=true)
     - Save changes.
+  + **If everything looks good, the new product is ready to go!**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -173,6 +174,9 @@
   + In the **Option Set** dropdown, select the newly-created option set to apply it to the new product.
 
 ![](images/product-creation23.png?raw=true)
+  + There should now be five options in the list, as seen below.
+
+![](images/product-creation27.png?raw=true)
   + Save changes.
   + Click the link in the green banner to view the new product as it will appear on the storefront.
 
@@ -180,7 +184,22 @@
   + Make sure the **Apparel Size** option is visible on the storefront.
   + Make sure the **Apparel Style** option is visible if needed, hidden if not.
   + Make sure the **Apparel Brand**, **Apparel Color** and **Product Type** options are *NOT* visible on the storefront.
-  + **If everything looks good, the new product is ready to go!**
+  + If everything looks good, we are ready to create some SKus!
+
+  + Navigate to **Products** > **View**.
+
+![](images/product-creation22.png?raw=true)
+  + Open the new product and click the **Options & SKUs** tab.
+![](images/product-creation27.png?raw=true)
+  + Click the **SKUs** tab and then click the **Create a SKU** button.
+![](images/product-creation28.png?raw=true)
+  + In the **SKU** field, enter the first variant SKU.
+![](images/product-creation29.png?raw=true)
+  + Mark relevant values for this particular variant.
+  + Each option needs a marked value.
+![](images/product-creation30.png?raw=true)
+
+
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -210,7 +229,7 @@
 ![](images/product-creation26.png?raw=true)
   + Make sure the option is set as a *Dropdown* since it will be hidden from customers.
   + Make sure the option value is marked as *Default*.
-    - Otherwise, product will be unable to be added to cart, since the customer will not be able to select a required option.
+    - Otherwise, product cannot be added to cart, since the customer will not be able to select a required option.
   + If the option looks good, you can cancel out. If not, make necessary changes and click **Save**.
   + **The new product is now ready for public consumption.**
 
