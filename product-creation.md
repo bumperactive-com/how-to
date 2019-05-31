@@ -60,8 +60,9 @@
     - **Save** after editing SKUs to prevent loss of work.
   + In **Modifier Options**, add **Apparel Brand** and **Apparel Color** options.
     - Make sure **Type** is set as *Dropdown*.
-    - Make sure option is required and the value is marked as *Default*.
-      + Otherwise, product can't be added to cart.
+    - Make sure each option is required and the value is marked as *Default*.
+      + Otherwise, product can't be added to cart because the customer will not be able to select a required option.
+
 ![](images/product-creation5.png?raw=true)
     - **Save** changes.
   + **If everything looks good, the new product is ready for review!**
@@ -94,7 +95,7 @@
   + Not sure why this appears twice, just do it.
 
 - In **Modifier Options**, make sure **Product Type** option is *required* and value is marked as *Default*.
-  + Otherwise, product can't be added to cart.
+    + Otherwise, product can't be added to cart because the customer will not be able to select a required option.
 ![](images/product-creation5.png?raw=true)
   + Click **Save Options**.
   + Then **Save** product.
@@ -256,7 +257,7 @@
 ![](images/product-creation26.png?raw=true)
   + Make sure the option is set as a *Dropdown* since it will be hidden from customers.
   + Make sure the option value is marked as *Default*.
-    - Otherwise, product cannot be added to cart, since the customer will not be able to select a required option.
+    - Otherwise, product cannot be added to cart because the customer will not be able to select a required option.
   + If the option looks good, you can cancel out. If not, make necessary changes and click **Save**.
   + **The new product is now ready for review!**
 
