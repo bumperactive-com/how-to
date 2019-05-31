@@ -178,6 +178,7 @@
 
 ![](images/product-creation24.png?raw=true)
   + Make sure the **Apparel Size** option is visible on the storefront.
+  + Make sure the **Apparel Style** option is visible if needed, hidden if not.
   + Make sure the **Apparel Brand**, **Apparel Color** and **Product Type** options are *NOT* visible on the storefront.
   + If everything looks good, the new product is ready to go!
 
@@ -185,3 +186,31 @@
 -------------------------------------------------------------------------------------
 
 ##### ***4. NON-APPAREL ITEMS***
+
+- Find an appropriate template for the new product.
+- Click the three dots to open a dropdown menu and select **Copy**.
+![](images/product-creation0.png?raw=true)
+- Edit product **Name**.
+- Check **Default Price** to ensure cost matches other products of similar type.
+- Select relevant product categories, such as Goods, Stickers, etc.
+- Edit **Product code/SKU**.
+- Use Product Description Generator and paste output into product **Description**.
+  + Save changes.
+- Click the **Images & Videos** tab and upload product images into the box below.
+![](images/product-creation6.png?raw=true)
+- The image with the blue dot will be set as the default product thumbnail. Set as needed.
+  + Save changes.
+![](images/product-creation7.png?raw=true)
+- Click the **Options & SKUs** tab.
+![](images/product-creation25.png?raw=true)
+- See how the assigned option set includes a **Product Type** option.
+  + This is the only option needed for Non-Apparel Items.
+  + Click the **Option Name** (Product Type) to view the option.
+
+![](images/product-creation26.png?raw=true)
+  + Make sure the option is set as a *Dropdown* since it will be hidden from customers.
+  + Make sure the option value is marked as *Default*.
+    - Otherwise, product will be unable to be added to cart, since the customer will not be able to select a required option.
+  + If the option looks good, you can cancel out. If not, make necessary changes and click **Save**.
+  + The new product is now ready for public consumption.
+
