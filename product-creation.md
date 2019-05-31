@@ -134,5 +134,37 @@
 
 ![](images/product-creation9.png?raw=true)
   + In the **Options** tab, click **Create an Option**.
-![](images/product-creation16.png?raw=true)
 
+![](images/product-creation16.png?raw=true)
+  + Edit the **Option Name** and **Display Name**.
+    - **Option Name** is used to differentiate option from other Apparel Brand options.
+    - **Display Name** is just the option category (Apparel Brand).
+
+![](images/product-creation17.png?raw=true)
+  + Set **Display Type** to *Multiple Choice* and **Display Style** to *Dropdown*.
+    - Remember, all options not needed by customer are set to *dropdowns* and then hidden on storefront.
+ 
+![](images/product-creation18.png?raw=true)
+  + Set **List of Values**. For Apparel Brand, there should only be one value and it needs to be marked as *Default*.
+    - If not marked as *Default*, product will not be able to be added to cart.
+    - Use [BRAND] Tee ([GARMENT ID]) Made in USA convention.
+      + If needed, specific value can be copied from a similar product on another store.
+
+![](images/product-creation19.png?raw=true)
+  + Click **Next**.
+
+![](images/product-creation20.png?raw=true)
+  + Assign the new option to the new option set.
+    - You can apply the option to multiple option sets if needed.
+
+![](images/product-creation21.png?raw=true)
+  + Save changes.
+
+  + Now we need to apply the new option set to the new product!
+  + Click **View** in the **Products** sidebar.
+
+![](images/product-creation21.png?raw=true)
+  + Open the new product.
+  + In the **Option Set** dropdown, select the newly-created option set to apply it to the new product.
+
+![](images/product-creation23.png?raw=true)
