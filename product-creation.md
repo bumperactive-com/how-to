@@ -164,7 +164,7 @@
     - You can apply the option to multiple option sets if needed.
 
 ![](images/product-creation21.png?raw=true)
-  + Save changes.
+  + **Save** changes.
 
   + Now we need to apply the new option set to the new product!
   + Click **View** in the **Products** sidebar.
@@ -198,6 +198,19 @@
   + Mark relevant values for this particular variant.
   + Each option needs a marked value.
 ![](images/product-creation30.png?raw=true)
+  + Once all variant-specific options are set, click **Save and Close**.
+  + You should now see the newly-created variant SKU with all five options attached.
+    - **Save** changes.
+![](images/product-creation31.png?raw=true)
+  + Repeat this process until each available size has its own Variant SKU.
+  + To save time, copy the SKU you just created and change the values.
+![](images/product-creation32.png?raw=true)
+  + In this example, change the SKU from **ABCD-TEE-0001-XS** to **ABCD-TEE-0001-S**
+    - Also change the **Apparel Size** value from **XS** to **S**.
+![](images/product-creation33.png?raw=true)
+  + Once each available size has its own Variant SKU, **save** changes.
+  + **The new product is now ready to go!**
+![](images/product-creation34.png?raw=true)
 
 
 
