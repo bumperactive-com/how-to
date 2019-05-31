@@ -26,7 +26,7 @@
 ![](images/product-creation35.png?raw=true)
 - Select relevant product categories, such as Pride, Tee, etc.
 ![](images/product-creation1.png?raw=true)
-- Check product price to make sure it matches other products of similar type.
+- Check product price to ensure cost matches other products of similar type.
 - Use Product Description Generator and paste output into product **Description**.
 ![](images/product-creation36.png?raw=true)
 - Upload product images.
@@ -82,7 +82,7 @@
 ![](images/product-creation38.png?raw=true)
 - Select relevant product categories, such as Pride, Goods, etc.
 ![](images/product-creation1.png?raw=true)
-- Check product price to make sure it matches other products of similar type.
+- Check product price to ensure cost matches other products of similar type.
 - Use Product Description Generator and paste output into product **Description**.
 ![](images/product-creation36.png?raw=true)
 
