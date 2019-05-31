@@ -32,8 +32,8 @@
 - Upload product images.
 ![](images/product-creation2.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
-  + **Save** changes.
 ![](images/product-creation37.png?raw=true)
+  + **Save** changes.
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
@@ -88,8 +88,8 @@
 - Upload product images.
 ![](images/product-creation2.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
-  + **Save** changes.
 ![](images/product-creation37.png?raw=true)
+  + **Save** changes.
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
@@ -121,8 +121,8 @@
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
-  + **Save** changes.
 ![](images/product-creation7.png?raw=true)
+  + **Save** changes.
 - Click the **Options & SKUs** tab.
 ![](images/product-creation8.png?raw=true)
 - See how the assigned option set only includes **Apparel Style**, **Apparel Style**, and **Product Type** options.
@@ -226,8 +226,8 @@
 ![](images/product-creation33.png?raw=true)
   + Once each available size has its own Variant SKU, **save** changes.
 ![](images/product-creation34.png?raw=true)
-  + **The new product is now ready for review!**
-
+  + **The new product is now ready for review! &#x1F308**
+  
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
 
@@ -245,8 +245,8 @@
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
-  + **Save** changes.
 ![](images/product-creation7.png?raw=true)
+  + **Save** changes.
 - Click the **Options & SKUs** tab.
 - See how the assigned option set includes a **Product Type** option.
 ![](images/product-creation25.png?raw=true)
