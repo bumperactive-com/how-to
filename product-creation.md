@@ -56,7 +56,7 @@
       + Otherwise, product can't be added to cart.
 ![](images/product-creation5.png?raw=true)
     - **Save** changes.
-  + **If everything looks good, the new product is ready to go!**
+  + **If everything looks good, the new product is ready for review!**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@
 ![](images/product-creation5.png?raw=true)
   + Click **Save Options**.
   + Then **Save** product.
-  + **The new product is now ready for public consumption.**
+  + **The new product is now ready for review!**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -187,7 +187,7 @@
   + Make sure the **Apparel Size** option is visible on the storefront.
   + Make sure the **Apparel Style** option is visible if needed, hidden if not.
   + Make sure the **Apparel Brand**, **Apparel Color** and **Product Type** options are *NOT* visible on the storefront.
-  + If everything looks good, we are ready to create some SKus!
+  + If everything looks good, we are ready to create some SKUs!
 
   + Navigate to **Products** > **View**.
 
@@ -213,7 +213,7 @@
 ![](images/product-creation33.png?raw=true)
   + Once each available size has its own Variant SKU, **save** changes.
 ![](images/product-creation34.png?raw=true)
-  + **The new product is now ready to go!**
+  + **The new product is now ready for review!**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -245,5 +245,5 @@
   + Make sure the option value is marked as *Default*.
     - Otherwise, product cannot be added to cart, since the customer will not be able to select a required option.
   + If the option looks good, you can cancel out. If not, make necessary changes and click **Save**.
-  + **The new product is now ready for public consumption.**
+  + **The new product is now ready for review!**
 
