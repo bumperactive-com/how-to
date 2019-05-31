@@ -109,8 +109,10 @@
   + This means we need to add **Apparel Brand** and **Apparel Color** options.
   + To do this, we need to make a copy of the assigned option set, add the missing options to the new option set and assign it to the new product.
   + Click **Product Options** in the sidebar menu.
+
 ![](images/product-creation9.png?raw=true)
   + Click the **Option Sets** tab.
+
 ![](images/product-creation10.png?raw=true)
   + Find the option set for the new product and make a copy.
 ![](images/product-creation11.png?raw=true)
@@ -129,6 +131,7 @@
 ![](images/product-creation15.png?raw=true)
   + Great! Now let's create the missing **Apparel Brand** option.
   + Click **Product Options** in the sidebar menu.
+
 ![](images/product-creation9.png?raw=true)
   + In the **Options** tab, click **Create an Option**.
 ![](images/product-creation16.png?raw=true)
