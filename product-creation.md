@@ -209,8 +209,8 @@
     - Also change the **Apparel Size** value from **XS** to **S**.
 ![](images/product-creation33.png?raw=true)
   + Once each available size has its own Variant SKU, **save** changes.
-  + **The new product is now ready to go!**
 ![](images/product-creation34.png?raw=true)
+  + **The new product is now ready to go!**
 
 
 
