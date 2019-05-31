@@ -23,12 +23,17 @@
 - Click the three dots to open a dropdown menu and select **Copy**.
 ![](images/product-creation0.png?raw=true)
 - Edit **Product Name** and **SKU**.
+![](images/product-creation35.png?raw=true)
 - Select relevant product categories, such as Pride, Tee, etc.
 ![](images/product-creation1.png?raw=true)
 - Check product price to make sure it matches other products of similar type.
 - Use Product Description Generator and paste output into product **Description**.
+![](images/product-creation36.png?raw=true)
 - Upload product images.
 ![](images/product-creation2.png?raw=true)
+- The image with the blue dot will be set as the default product thumbnail. Set as needed.
+  + **Save** changes.
+![](images/product-creation37.png?raw=true)
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
@@ -70,13 +75,18 @@
 - Click the three dots to open a dropdown menu and select **Copy**.
 ![](images/product-creation0.png?raw=true)
 - Edit **Product Name** and **SKU**.
+![](images/product-creation38.png?raw=true)
 - Select relevant product categories, such as Pride, Goods, etc.
 ![](images/product-creation1.png?raw=true)
 - Check product price to make sure it matches other products of similar type.
 - Use Product Description Generator and paste output into product **Description**.
+![](images/product-creation36.png?raw=true)
 
 - Upload product images.
 ![](images/product-creation2.png?raw=true)
+- The image with the blue dot will be set as the default product thumbnail. Set as needed.
+  + **Save** changes.
+![](images/product-creation37.png?raw=true)
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
