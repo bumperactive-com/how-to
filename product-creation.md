@@ -49,13 +49,13 @@
 ![](images/product-creation3.png?raw=true)
   + Edit the alphanumeric portion of each variant SKU.
 ![](images/product-creation4.png?raw=true)
-    - Save after editing SKUs to prevent loss of work.
+    - **Save** after editing SKUs to prevent loss of work.
   + In **Modifier Options**, add **Apparel Brand** and **Apparel Color** options.
     - Make sure **Type** is set as *Dropdown*.
     - Make sure option is required and the value is marked as *Default*.
       + Otherwise, product can't be added to cart.
 ![](images/product-creation5.png?raw=true)
-    - Save changes.
+    - **Save** changes.
   + **If everything looks good, the new product is ready to go!**
 
 -------------------------------------------------------------------------------------
@@ -83,6 +83,9 @@
 - In **Modifier Options**, make sure **Product Type** option is *required* and value is marked as *Default*.
   + Otherwise, product can't be added to cart.
 ![](images/product-creation5.png?raw=true)
+  + Click **Save Options**.
+  + Then **Save** product.
+  + **The new product is now ready for public consumption.**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -101,11 +104,11 @@
 - Select relevant product categories, such as Pride, Tee, etc.
 - Edit **Product code/SKU**.
 - Use Product Description Generator and paste output into product **Description**.
-  + Save changes.
+  + **Save** changes.
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
-  + Save changes.
+  + **Save** changes.
 ![](images/product-creation7.png?raw=true)
 - Click the **Options & SKUs** tab.
 ![](images/product-creation8.png?raw=true)
@@ -177,7 +180,7 @@
   + There should now be five options in the list, as seen below.
 
 ![](images/product-creation27.png?raw=true)
-  + Save changes.
+  + **Save** changes.
   + Click the link in the green banner to view the new product as it will appear on the storefront.
 
 ![](images/product-creation24.png?raw=true)
@@ -212,8 +215,6 @@
 ![](images/product-creation34.png?raw=true)
   + **The new product is now ready to go!**
 
-
-
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
 
@@ -227,11 +228,11 @@
 - Select relevant product categories, such as Goods, Stickers, etc.
 - Edit **Product code/SKU**.
 - Use Product Description Generator and paste output into product **Description**.
-  + Save changes.
+  + **Save** changes.
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
-  + Save changes.
+  + **Save** changes.
 ![](images/product-creation7.png?raw=true)
 - Click the **Options & SKUs** tab.
 - See how the assigned option set includes a **Product Type** option.
