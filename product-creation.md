@@ -58,7 +58,6 @@
     - Save changes.
 
 -------------------------------------------------------------------------------------
-
 -------------------------------------------------------------------------------------
 
 ##### *2. NON-APPAREL ITEMS*
@@ -85,7 +84,6 @@
 ![](images/product-creation5.png?raw=true)
 
 -------------------------------------------------------------------------------------
-
 -------------------------------------------------------------------------------------
 
 ### A-STYLE STORES
@@ -148,6 +146,8 @@
 ![](images/product-creation17.png?raw=true)
   + Set **Display Type** to *Multiple Choice* and **Display Style** to *Dropdown*.
     - Remember, all options not needed by customer are set to *dropdowns* and then hidden on storefront.
+    - Unless the product uses Ladies + Unisex combined, only **Apparel Size** needs to be visible.
+      + If the product *does* combine Ladies and Unisex, **Apparel Style** also needs to be visible as a *Rectangle*
 
 ![](images/product-creation18.png?raw=true)
   + Set **List of Values**. For Apparel Brand, there should only be one value and it needs to be marked as *Default*.
@@ -182,7 +182,6 @@
   + If everything looks good, the new product is ready to go!
 
 -------------------------------------------------------------------------------------
-
 -------------------------------------------------------------------------------------
 
 ##### ***4. NON-APPAREL ITEMS***
