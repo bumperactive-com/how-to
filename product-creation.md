@@ -53,6 +53,9 @@
       + We don't need customers to see the product type, but we DO need them to pick a damn size!
 ![](images/product-creation3.png?raw=true)
   + Edit the alphanumeric portion of each variant SKU.
+    - If product contains Women's and Unisex options:
+        + Each Unisex variant should have same alphanumeric value (eg: 0001)
+        + Each Women's variant should have same alphanumeric value (eg: 0002)
 ![](images/product-creation4.png?raw=true)
     - **Save** after editing SKUs to prevent loss of work.
   + In **Modifier Options**, add **Apparel Brand** and **Apparel Color** options.
