@@ -8,6 +8,7 @@
 
 #### A-STYLE STORES
 3. [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#3-apparel-items)
+4. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#4-non-apparel-items)
 
 
 -------------------------------------------------------------------------------------
@@ -143,7 +144,7 @@
 ![](images/product-creation17.png?raw=true)
   + Set **Display Type** to *Multiple Choice* and **Display Style** to *Dropdown*.
     - Remember, all options not needed by customer are set to *dropdowns* and then hidden on storefront.
- 
+
 ![](images/product-creation18.png?raw=true)
   + Set **List of Values**. For Apparel Brand, there should only be one value and it needs to be marked as *Default*.
     - If not marked as *Default*, product will not be able to be added to cart.
@@ -163,8 +164,21 @@
   + Now we need to apply the new option set to the new product!
   + Click **View** in the **Products** sidebar.
 
-![](images/product-creation21.png?raw=true)
+![](images/product-creation22.png?raw=true)
   + Open the new product.
   + In the **Option Set** dropdown, select the newly-created option set to apply it to the new product.
 
 ![](images/product-creation23.png?raw=true)
+  + Save changes.
+  + Click the link in the green banner to view the new product as it will appear on the storefront.
+
+![](images/product-creation24.png?raw=true)
+  + Make sure the **Apparel Size** option is visible on the storefront.
+  + Make sure the **Apparel Brand**, **Apparel Color** and **Product Type** options are *NOT* visible on the storefront.
+  + If everything looks good, the new product is ready to go!
+
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+
+##### ***4. NON-APPAREL ITEMS***
