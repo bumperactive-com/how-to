@@ -180,7 +180,7 @@
   + Make sure the **Apparel Size** option is visible on the storefront.
   + Make sure the **Apparel Style** option is visible if needed, hidden if not.
   + Make sure the **Apparel Brand**, **Apparel Color** and **Product Type** options are *NOT* visible on the storefront.
-  + If everything looks good, the new product is ready to go!
+  + **If everything looks good, the new product is ready to go!**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
@@ -202,8 +202,8 @@
   + Save changes.
 ![](images/product-creation7.png?raw=true)
 - Click the **Options & SKUs** tab.
-![](images/product-creation25.png?raw=true)
 - See how the assigned option set includes a **Product Type** option.
+![](images/product-creation25.png?raw=true)
   + This is the only option needed for Non-Apparel Items.
   + Click the **Option Name** (Product Type) to view the option.
 
@@ -212,5 +212,5 @@
   + Make sure the option value is marked as *Default*.
     - Otherwise, product will be unable to be added to cart, since the customer will not be able to select a required option.
   + If the option looks good, you can cancel out. If not, make necessary changes and click **Save**.
-  + The new product is now ready for public consumption.
+  + **The new product is now ready for public consumption.**
 
