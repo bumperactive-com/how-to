@@ -224,9 +224,9 @@
   + In this example, change the SKU from **ABCD-TEE-0001-XS** to **ABCD-TEE-0001-S**
     - Also change the **Apparel Size** value from **XS** to **S**.
 ![](images/product-creation33.png?raw=true)
-  + Once each available size has its own Variant SKU, **save** changes.
+  + Once each available size has its own Variant SKU, **save** changes. U+1F911
 ![](images/product-creation34.png?raw=true)
-  + **The new product is now ready for review! &#x1F308**
+  + **The new product is now ready for review!**
   
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
