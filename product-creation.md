@@ -241,7 +241,7 @@
 - Check **Default Price** to ensure cost matches other products of similar type.
 - Select relevant product categories, such as Goods, Stickers, etc.
 - Edit **Product code/SKU**.
-- Use [Product Description Generator](https://docs.google.com/spreadsheets/d/1dv7-gOUT8lrlTswsGyFeZfskL0IogINUoMvJr5jAcJE/edit#gid=0) and paste output into product **Description**.
+- Use <a href="https://docs.google.com/spreadsheets/d/1dv7-gOUT8lrlTswsGyFeZfskL0IogINUoMvJr5jAcJE/edit#gid=0" target="blank">Product Description Generator</a> and paste output into product **Description**.
   + **Save** changes.
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
