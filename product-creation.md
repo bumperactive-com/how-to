@@ -2,11 +2,11 @@
 
 ### Table of Contents
 
-#### B-STYLE STORES
+#### B-STYLE STORES (The New Way)
 1. [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#1-apparel-items)
 2. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#2-non-apparel-items)
 
-#### A-STYLE STORES
+#### A-STYLE STORES (The Old Way)
 3. [Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#3-apparel-items)
 4. [Non-Apparel Items](https://github.com/bumperactive-com/how-to/blob/master/product-creation.md#4-non-apparel-items)
 
@@ -239,9 +239,13 @@
   + **The new product is now ready for review!**
 
 -------------------------------------------------------------------------------------
+G                   J                   W
 -------------------------------------------------------------------------------------
+    O                   O                   O
 -------------------------------------------------------------------------------------
+        O                   B                   W
 -------------------------------------------------------------------------------------
+            D                   !                   !
 -------------------------------------------------------------------------------------
 
 ##### ***4. NON-APPAREL ITEMS***
