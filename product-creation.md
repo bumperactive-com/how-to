@@ -37,6 +37,7 @@
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
 ![](images/product-creation37.png?raw=true)
   + **Save** changes.
+
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
@@ -61,6 +62,7 @@
         + Each Women's variant should have same alphanumeric value (eg: 0002)
 ![](images/product-creation4.png?raw=true)
     - **Save** after editing SKUs to prevent loss of work.
+
   + In **Modifier Options**, add **Apparel Brand** and **Apparel Color** options.
     - Make sure **Type** is set as *Dropdown*.
     - Make sure each option is required and the value is marked as *Default*.
@@ -68,6 +70,7 @@
 
 ![](images/product-creation5.png?raw=true)
     - **Save** changes.
+
   + **If everything looks good, the new product is ready for review!**
 
 -------------------------------------------------------------------------------------
@@ -97,6 +100,7 @@
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
 ![](images/product-creation37.png?raw=true)
   + **Save** changes.
+
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
@@ -128,11 +132,13 @@
 - Edit **Product code/SKU**.
 - Use Product Description Generator and paste output into product **Description**.
   + **Save** changes.
+
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
 ![](images/product-creation7.png?raw=true)
   + **Save** changes.
+
 - Click the **Options & SKUs** tab.
 ![](images/product-creation8.png?raw=true)
 - See how the assigned option set only includes **Apparel Style**, **Apparel Style**, and **Product Type** options.
@@ -204,6 +210,7 @@
 
 ![](images/product-creation27.png?raw=true)
   + **Save** changes.
+
   + Click the link in the green banner to view the new product as it will appear on the storefront.
 
 ![](images/product-creation24.png?raw=true)
@@ -227,6 +234,7 @@
   + Once all variant-specific options are set, click **Save and Close**.
   + You should now see the newly-created variant SKU with all five options attached.
     - **Save** changes.
+
 ![](images/product-creation31.png?raw=true)
   + Repeat this process until each available size has its own Variant SKU.
   + To save time, copy the SKU you just created and change the values.
@@ -255,11 +263,13 @@
 - Edit **Product code/SKU**.
 - Use Product Description Generator and paste output into product **Description**.
   + **Save** changes.
+
 - Click the **Images & Videos** tab and upload product images into the box below.
 ![](images/product-creation6.png?raw=true)
 - The image with the blue dot will be set as the default product thumbnail. Set as needed.
 ![](images/product-creation7.png?raw=true)
   + **Save** changes.
+
 - Click the **Options & SKUs** tab.
 - See how the assigned option set includes a **Product Type** option.
 ![](images/product-creation25.png?raw=true)
