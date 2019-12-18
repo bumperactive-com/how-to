@@ -23,6 +23,7 @@
                 - Hidden products will always appear dim.
 
             + This is a **preorder** product
+
             ![](images/bicep-usage5.png)
                 - Notice the reddish color.
                 - This color will always correspond to preorder status.
