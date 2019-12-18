@@ -4,9 +4,12 @@
 - **Bicep** is composed of four main views (in order of access):
     + Store Index
         - Here you can see a list of all active stores.
-            + (Image of active, launched store)
-            + (Image of active, unlaunched store)
-            + (Image of active, maintenance store)
+            + This is an active, **launched** store
+            ![](images/bicep-usage0.png)
+            + This is an active, **unlaunched** store)
+            ![](images/bicep-usage1.png)
+            + This store is in **maintenance mode**
+            ![](images/bicep-usage2.png)
 
     + Product Index
         - Here you can see a list of all active products, product templates and sample products.
