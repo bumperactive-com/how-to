@@ -14,10 +14,12 @@
     + Product Index
         - Here you can see a list of all active products, product templates and sample products.
             + This is an active, **visible** product
+
             ![](images/bicep-usage3.png)
                 - Notice the blue eye.
 
             + This is an active, **hidden** product
+
             ![](images/bicep-usage4.png)
                 - Notice the orange eye and muted color.
                 - Hidden products will always appear dim.
