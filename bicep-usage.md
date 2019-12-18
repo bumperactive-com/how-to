@@ -16,10 +16,16 @@
             + This is an active, **visible** product
             ![](images/bicep-usage3.png)
                 - Notice the blue eye.
+
             + This is an active, **hidden** product
             ![](images/bicep-usage4.png)
-                - Notice the orange eye.
-            + (Image of preorder product)
+                - Notice the orange eye and muted color.
+                - Hidden products will always appear dim.
+
+            + This is a **preorder** product
+            ![](images/bicep-usage5.png)
+                - Notice the reddish color.
+                - This color will always correspond to preorder status.
             + (Image of product template)
             + (Image of sample product)
 
