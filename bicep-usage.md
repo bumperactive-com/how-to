@@ -6,15 +6,19 @@
         - Here you can see a list of all active stores.
             + This is an active, **launched** store
             ![](images/bicep-usage0.png)
-            + This is an active, **unlaunched** store)
+            + This is an active, **unlaunched** store
             ![](images/bicep-usage1.png)
             + This store is in **maintenance mode**
             ![](images/bicep-usage2.png)
 
     + Product Index
         - Here you can see a list of all active products, product templates and sample products.
-            + (Image of active, visible product)
-            + (Image of active, hidden product)
+            + This is an active, **visible** product
+            ![](images/bicep-usage3.png)
+                - Notice the blue eye.
+            + This is an active, **hidden** product
+            ![](images/bicep-usage4.png)
+                - Notice the orange eye.
             + (Image of preorder product)
             + (Image of product template)
             + (Image of sample product)
