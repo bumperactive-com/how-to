@@ -58,10 +58,20 @@
                 ![](images/bicep-usage9.png)
                 - The *Product Page* button opens the BigCommerce product page in a new tab.
                 - The sidebar also indicates:
-                    + When the product was created
-                    + Whether it is available or preorder
+                    + When the product was created.
+                    + Whether it is available or preorder.
                     + Total views for this product.
                     + Sales total for this product.
-                        - A high view total with a low sales total indicates that this is not a product people want.
+                        - A **high view total** with a **low sales total** indicates that this is not a product people want.
+                            + A 100 to 1 ratio, for example, is subpar.
+                            + This product's 2.6 to 1 ratio is excellent.
+
+            + Here are the product's *name*, *sku*, *price* and *preorder date*
+
+                ![](images/bicep-usage10.png)
+                - Notice the green button.
+                    + Click it and the text will turn into inputs
+                    + The green button will turn red.
+                
 
     + *Variant View*
