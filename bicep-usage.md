@@ -9,16 +9,16 @@
 - Variant View
 
 ###### 1. ***Store Index***
-    + Here you can see a list of all active stores.
+- Here you can see a list of all active stores.
 
-        - This is an active, **launched** store
-        ![](images/bicep-usage0.png)
+    + This is an active, **launched** store
+    ![](images/bicep-usage0.png)
 
-        - This is an active, **unlaunched** store
-        ![](images/bicep-usage1.png)
+    + This is an active, **unlaunched** store
+    ![](images/bicep-usage1.png)
 
-        - This store is in **maintenance mode**
-        ![](images/bicep-usage2.png)
+    + This store is in **maintenance mode**
+    ![](images/bicep-usage2.png)
 
     2. ***Product Index***
         - Here you can see a list of all active products, product templates and sample products.
