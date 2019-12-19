@@ -43,7 +43,7 @@
             + This is a **sample product**
             ![](images/bicep-usage7.png)
 
-                - Notice the teal color.
+                - Notice the uninspiring gray color.
                 - This color will always correspond to product samples.
 
     + *Product View*
