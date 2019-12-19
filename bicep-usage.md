@@ -74,5 +74,10 @@
                     + The green button will turn red.
 
                 ![](images/bicep-usage11.png)
+                - Now you can edit these values as needed.
+                - Once you save your changes, the page will reload and display the updated values.
+
+                ![](images/bicep-usage12.png)
+                - WOW!
 
     + *Variant View*
