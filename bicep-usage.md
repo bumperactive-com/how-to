@@ -17,32 +17,31 @@
     + *Product Index*
         - Here you can see a list of all active products, product templates and sample products.
 
-            + This is an active, **visible** product
+            + This is an active, **visible** product.
             ![](images/bicep-usage3.png)
 
                 - Notice the blue eye.
 
-            + This is an active, **hidden** product
+            + This is an active, **hidden** product.
             ![](images/bicep-usage4.png)
 
                 - Notice the orange eye and muted color.
                 - Hidden products will always appear dim.
 
-            + This is a **preorder** product
+            + This is a **preorder** product.
             ![](images/bicep-usage5.png)
 
                 - Notice the reddish color.
                 - This color will always correspond to preorder status.
 
-            + This is a **product template**
+            + This is a **product template**.
             ![](images/bicep-usage6.png)
 
                 - Notice the teal color.
                 - This color will always correspond to product templates.
 
-            + This is a **sample product**
-
-            ![](images/bicep-usage7.png)
+            + This is a **sample product**.
+            + ![](images/bicep-usage7.png)
 
                 - Notice the uninspiring gray color.
                 - This color will always correspond to product samples.
