@@ -41,6 +41,7 @@
                 - This color will always correspond to product templates.
 
             + This is a **sample product**
+
             ![](images/bicep-usage7.png)
 
                 - Notice the uninspiring gray color.
