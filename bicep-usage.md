@@ -1,8 +1,14 @@
 # [BICEP](https://bicep.bumperapptive.com)
 
 ## USAGE
-- **Bicep** is composed of four main views (in order of access):
-    1. ***Store Index***
+#### **Bicep** is composed of four main views (in order of access):
+
+- Store Index
+- Product Index
+- Product View
+- Variant View
+
+###### 1. ***Store Index***
         - Here you can see a list of all active stores.
 
             + This is an active, **launched** store
