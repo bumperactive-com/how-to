@@ -2,7 +2,7 @@
 
 ## USAGE
 - **Bicep** is composed of four main views (in order of access):
-    + ***Store Index***
+    1. ***Store Index***
         - Here you can see a list of all active stores.
 
             + This is an active, **launched** store
@@ -14,7 +14,7 @@
             + This store is in **maintenance mode**
             ![](images/bicep-usage2.png)
 
-    + ***Product Index***
+    2. ***Product Index***
         - Here you can see a list of all active products, product templates and sample products.
 
             + This is an active, **visible** product.
@@ -60,7 +60,7 @@
                 - Notice the uninspiring gray color.
                 - This color will always correspond to product samples.
 
-    + ***Product View***
+    3. ***Product View***
         - After selecting a product in the Store View, you'll see information about it in the Product View.
         ![](images/bicep-usage8.png)
 
@@ -91,4 +91,4 @@
                 ![](images/bicep-usage12.png)
                 - **WOW!**
 
-    + ***Variant View***
+    4. ***Variant View***
