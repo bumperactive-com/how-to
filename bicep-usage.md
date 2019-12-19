@@ -72,6 +72,7 @@
                 - Notice the green button.
                     + Click it and the text will turn into inputs
                     + The green button will turn red.
-                
+
+                ![](images/bicep-usage11.png)
 
     + *Variant View*
