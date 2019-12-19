@@ -54,7 +54,6 @@
         ![](images/bicep-usage8.png)
 
             + This is the *product sidebar*
-
                 ![](images/bicep-usage9.png)
                 - The *Product Page* button opens the BigCommerce product page in a new tab.
                 - The sidebar also indicates:
