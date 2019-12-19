@@ -55,7 +55,7 @@
 
             + This is the *product sidebar*
 
-                - ![](images/bicep-usage9.png)
+                ![](images/bicep-usage9.png)
                 - The *Product Page* button opens the BigCommerce product page in a new tab.
                 - The sidebar also indicates:
                     + When the product was created
