@@ -53,4 +53,13 @@
         - After selecting a product in the Store View, you'll see information about it in the Product View.
         ![](images/bicep-usage8.png)
 
+            + This is the *product sidebar*
+                - The *Product Page* button opens the BigCommerce product page in a new tab.
+                - The sidebar also indicates:
+                    + When the product was created
+                    + Whether it is available or preorder
+                    + Total views for this product.
+                    + Sales total for this product.
+                        - A high view total with a low sales total indicates that this is not a product people want.
+
     + *Variant View*
