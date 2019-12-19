@@ -21,6 +21,8 @@
             ![](images/bicep-usage3.png)
 
                 - Notice the blue eye.
+                - Like on BigCommerce, the blue eye means the product is visible on the storefront.
+                - The blue star means this is a *Featured Product*
 
             + This is an active, **hidden** product.
             ![](images/bicep-usage4.png)
