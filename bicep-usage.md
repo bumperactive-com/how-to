@@ -23,6 +23,7 @@
                 - Notice the blue eye.
                 - Like on BigCommerce, the blue eye means the product is visible on the storefront.
                 - The blue star means this is a *Featured Product*
+                - Both icons can be toggled on/off with a click.
 
             + This is an active, **hidden** product.
             ![](images/bicep-usage4.png)
@@ -34,7 +35,7 @@
             ![](images/bicep-usage5.png)
 
                 - Notice the reddish color.
-                - This color will always correspond to preorder status.
+                - This color will always correspond to preorder products.
 
             + This is a **product template**.
             ![](images/bicep-usage6.png)
@@ -49,4 +50,7 @@
                 - This color will always correspond to product samples.
 
     + *Product View*
+        - After selecting a product in the Store View, you'll see information about it in the Product View.
+        ![](images/bicep-usage8.png)
+
     + *Variant View*
