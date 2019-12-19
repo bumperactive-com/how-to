@@ -2,7 +2,7 @@
 
 ## USAGE
 - **Bicep** is composed of four main views (in order of access):
-    + *Store Index*
+    + ***Store Index***
         - Here you can see a list of all active stores.
 
             + This is an active, **launched** store
@@ -14,28 +14,39 @@
             + This store is in **maintenance mode**
             ![](images/bicep-usage2.png)
 
-    + *Product Index*
+    + ***Product Index***
         - Here you can see a list of all active products, product templates and sample products.
 
             + This is an active, **visible** product.
             ![](images/bicep-usage3.png)
 
-                - Notice the blue eye.
-                - Like on BigCommerce, the blue eye means the product is visible on the storefront.
-                - The blue star means this is a *Featured Product*
-                - Both icons can be toggled on/off with a click.
+                - Notice the blue icons.
+                    + Like on BigCommerce, the blue eye means the product is visible on the storefront.
+                    + The blue star means this is a *Featured Product*
+                    + Both icons can be toggled on/off with a click.
+
+                - The encircled number indicates the base price for the product.
+
+                - Click the *Edit This Product* button to view/edit this product in greater detail.
+                - Click the *View on Store* button to view the product on the storefront.
+
+                - Click the *Enable Preorder* button to assign a preorder date to the product.
+                - +[add screenshot]+
 
             + This is an active, **hidden** product.
             ![](images/bicep-usage4.png)
 
                 - Notice the orange eye and muted color.
-                - Hidden products will always appear dim.
+                    + Hidden products will always appear dim.
 
             + This is a **preorder** product.
             ![](images/bicep-usage5.png)
 
-                - Notice the reddish color.
-                - This color will always correspond to preorder products.
+                - Notice the reddish color and preorder date.
+                    + This color will always correspond to preorder products.
+
+                - Click the *Disable Preorder* button to remove preorder status from the product.
+                    + The page will reload and this product tile will have changed color.
 
             + This is a **product template**.
             ![](images/bicep-usage6.png)
@@ -49,7 +60,7 @@
                 - Notice the uninspiring gray color.
                 - This color will always correspond to product samples.
 
-    + *Product View*
+    + ***Product View***
         - After selecting a product in the Store View, you'll see information about it in the Product View.
         ![](images/bicep-usage8.png)
 
@@ -78,6 +89,6 @@
                 - Once you save your changes, the page will reload and display the updated values.
 
                 ![](images/bicep-usage12.png)
-                - WOW!
+                - **WOW!**
 
-    + *Variant View*
+    + ***Variant View***
