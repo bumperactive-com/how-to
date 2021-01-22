@@ -80,10 +80,7 @@
 -------------------------------------------------------------------------------------
 
 ##### *2. NON-APPAREL ITEMS*
-
-- ***Templates will already contain the requisite Product Type modifier option***.
-- ***Non-Apparel items do not need Variant SKUs***.
-
+  
 - Find an appropriate template.
 - Click the three dots to open a dropdown menu and select **Copy**.
 ![](images/product-creation0.png?raw=true)
@@ -104,12 +101,16 @@
 - In **Product Identifiers**, edit SKU again.
   + Not sure why this appears twice, just do it.
 
-- In **Modifier Options**, make sure **Product Type** option is *required* and value is marked as *Default*.
-    + Otherwise, product can't be added to cart because the customer will not be able to select a required option.
-![](images/product-creation5.png?raw=true)
-  + Click **Save Options**.
-  + Then **Save** product.
-  + **The new product is now ready for review!**
+- ***By default, non-apparel item templates will include the Product Type variant; however, these items do not require variant SKUs. Therefore, the Product Type variant will need to be manually changed to a Modifier Option***.
+- From the product edit screen, under Variant Options, select **Configure Options**.
+  + Copy the entire text in the **Values** field.
+  + Select **Delete Option**. Then select **Save Variants**.
+- From the product edit screen, under **Modifier Options**, select **+ Add Modifier Option** and then select **+ Add Modifier Option** again on the following screen.
+  + In the **Name** field enter 'Product Type', choose 'Dropdown' in the **Type** field and paste the text you previously copied into the **Values** field.
+  + Check the **Default** option and check the **Required** box.
+  + Select **Create Options**.
+- Save your product by selecting **Save** at the bottom.
+- **The new product is now ready for review!**
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
